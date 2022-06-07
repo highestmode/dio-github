@@ -1,0 +1,8 @@
+C:\Users\LEAND\source\repos\ConsoleApp2\Soma de Impares Consecutivos\bin\Debug\Soma de Impares Consecutivos.exe.config
+C:\Users\LEAND\source\repos\ConsoleApp2\Soma de Impares Consecutivos\bin\Debug\Soma de Impares Consecutivos.exe
+C:\Users\LEAND\source\repos\ConsoleApp2\Soma de Impares Consecutivos\bin\Debug\Soma de Impares Consecutivos.pdb
+C:\Users\LEAND\source\repos\ConsoleApp2\Soma de Impares Consecutivos\obj\Debug\Soma de Impares Consecutivos.csproj.AssemblyReference.cache
+C:\Users\LEAND\source\repos\ConsoleApp2\Soma de Impares Consecutivos\obj\Debug\Soma de Impares Consecutivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEAND\source\repos\ConsoleApp2\Soma de Impares Consecutivos\obj\Debug\Soma de Impares Consecutivos.csproj.CoreCompileInputs.cache
+C:\Users\LEAND\source\repos\ConsoleApp2\Soma de Impares Consecutivos\obj\Debug\Soma de Impares Consecutivos.exe
+C:\Users\LEAND\source\repos\ConsoleApp2\Soma de Impares Consecutivos\obj\Debug\Soma de Impares Consecutivos.pdb
